@@ -1,0 +1,22 @@
+.verifyBtn{
+    background-color: #0a715c;
+    color: white;
+    border:none;
+    height: 40px;
+    width: 10rem;
+    padding: 5px;
+    margin-left: 50px;
+}
+.verifyBtn:hover{
+    cursor: pointer;
+    background-color: #078a70;
+}
+.form-ferify{
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    margin-bottom: 2rem;
+    height: 30px;
+    width: 16rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
